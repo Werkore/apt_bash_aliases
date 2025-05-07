@@ -17,7 +17,10 @@ alias search='sudo apt search'
 alias ex='exit'
 
 #neovim
-alias nvim='/bin/./nvim-linux-x86_64.appimage'
+#alias nvim='/bin/./nvim-linux-x86_64.appimage'
 
 #flatpak run commands
 alias hx='helix-25.01.1-x86_64.AppImage'
+
+#vim.basic
+alias vim='/bin/./vim.basic'
